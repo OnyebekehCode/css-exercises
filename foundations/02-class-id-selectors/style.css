@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(238, 111, 111);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#even1  {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+.odd.cool {
+    background-color: rgb(238, 111, 111);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+#even {
+background-color: rgb(111, 238, 111);
+    font-size: 24px;
+    font-weight: bold;
+
+}
