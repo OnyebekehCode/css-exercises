@@ -1,0 +1,9 @@
+.spec1 {
+    color: hsl(180, 5%, 89%);
+    background-color: hsl(0, 33%, 2%);
+}   
+.spec2 { background-color: yellow;}
+.first-button {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
