@@ -8,35 +8,34 @@ body {
   font-weight: 800;
 }
 
-.small-para {
-  font-size: 14px;
-  font-weight: 800;
+.para.small-para {
+  font-size: 12px;
 }
 
-.para {
+ .para {
   font-size: 22px;
 }
 
-.confirm {
+#confirm-button {
   background: green;
-  color: white;
+  color: rgb(247, 249, 250);
   font-weight: bold;
 } 
 
 .button {
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(240, 241, 240);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
 .child {
   color: rgb(0, 0, 0);
-  font-weight: 800;
-  font-size: 14px;
+  font-weight: 100;
+  font-size: 22px;
 }
 
-div.text {
+div.text.child {
   color: rgb(0, 0, 0);
-  font-size: 22px;
-  font-weight: 100;
+  font-size: 12px;
+  font-weight: 800;
 }
